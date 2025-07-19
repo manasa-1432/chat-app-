@@ -23,3 +23,6 @@ The application mimics the working of apps like WhatsApp or Messenger and provid
 
 ---
 ✅ Task Completed as per the CodTech Internship Guidelines.
+
+*output*
+<img width="1024" height="1024" alt="Image" src="https://github.com/user-attachments/assets/0bb912b8-d64a-4e48-9df3-b939cc2c7582" />
